@@ -1,9 +1,11 @@
-openai
+openai==0.28.0
 langchain
 langchain_openai
+langchain_community
+langchain_chroma
 chromadb
 docx2txt
 pypdf
-streamlit
+streamlit==1.37.1
 tiktoken
 click==8

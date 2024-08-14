@@ -58,6 +58,9 @@ It will open your browser and from there you can enter your OPENAI API KEY and g
 # Acknowledgement
 Special thanks to [LangChain](https://github.com/langchain-ai/langchain), [ChromaDB](https://github.com/chroma-core/chroma), [Streamlit](https://github.com/streamlit/streamlit) for their invaluable contributions to the open source community. 
 
+# LICENSE
+[Apache 2.0 License](https://github.com/CBhandawat/Chat-With-Documents/blob/main/LICENSE)
+
 
 
 
